@@ -40,3 +40,4 @@ Node* insere (Node *raiz, int valor){
 
 }
 
+
